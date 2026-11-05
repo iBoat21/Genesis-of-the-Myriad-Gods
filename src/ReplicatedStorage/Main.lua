@@ -1,0 +1,2 @@
+-- Replicated Storage - Shared Modules
+-- Contains InventoryManager ModuleScript for shared inventory logic

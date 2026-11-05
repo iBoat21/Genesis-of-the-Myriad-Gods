@@ -1,0 +1,2 @@
+-- Starter Player Local Script
+-- Handles local player input and inventory UI interactions

@@ -1,0 +1,2 @@
+-- Server Script Main - Inventory System Entry Point
+-- Initializes inventory manager for all players
